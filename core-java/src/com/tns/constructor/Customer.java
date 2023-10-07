@@ -5,7 +5,8 @@ public class Customer {
 	private String customerName;
 	private int customerId;
 	private String customerCity;
-	public Customer();
+	public Customer() {
+	}
 	{
 		System.out.println("default");
 	}
