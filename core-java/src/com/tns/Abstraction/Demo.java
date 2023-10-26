@@ -6,7 +6,6 @@ public class Demo {
 		// TODO Auto-generated method stub
 		Demo s=new Demo();
 		Rectangle r=new Rectangle();
-		//System.out.println(s);
 		System.out.println(r);
 
 	}
